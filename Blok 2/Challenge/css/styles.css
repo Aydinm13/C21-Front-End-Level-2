@@ -1,0 +1,118 @@
+@import url('https://fonts.googleapis.com/css2?family=Karla:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,200;1,300;1,400;1,500;1,600;1,700;1,800&family=Source+Sans+Pro:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,200;1,300;1,400;1,600;1,700;1,900&family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    margin-left: 560px;
+  }
+
+ul li {
+    list-style: none;
+    display: inline-block;
+    line-height: 80px;
+    
+}
+
+ul li a {
+    display: block;
+    text-decoration: none;
+    font-size: 14px;
+    font-family: arial;
+    color: gold;
+    padding: 0 20px;
+}
+ul li a:hover{
+    color: white;
+}
+nav{
+    width: 100%;
+    height: 100%;
+    
+}
+body {
+    background-image: url(https://free4kwallpapers.com/uploads/originals/2019/03/02/planet-earth-wallpaper.jpg);
+
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.logo{
+    float: right;
+    height: 150px;
+    width: 150px;
+    margin-top: -80px;
+    display: block;
+    margin-right: auto;
+}
+.overmij {
+    color: white;
+    font-size: 14px;
+    font-family: karla;
+    text-align: center; 
+    margin-left: 400px;
+    margin-right: 400px;
+    margin-top: 40px;
+    display: block;
+}
+hr {
+    align-items: center;
+    display: block;
+
+}
+hr:hover{
+    background-color: white
+}
+h1 {
+    color: white;
+    font-family: karla;
+    text-align: center; 
+    margin-left: 400px;
+    margin-right: 400px;
+    margin-top: 50px;
+    display: block;
+}
+button{
+    font-family: karla;
+    margin-top: 25px;
+    margin-left: 710px;
+    margin-right: 710px;
+    width: 100px;
+    background-color: gold;
+    color: white;
+}
+#pic {
+    height: 500px;
+    width: 800px;
+    margin-left: 370px;
+    margin-right: 400px;
+    margin-top: 50px;
+}
+#code {
+    height: 500px;
+    width: 800px;
+    margin-left: 370px;
+    margin-right: 400px;
+    margin-top: 50px;
+}
+#blok {
+    height: 500px;
+    width: 800px;
+    margin-left: 370px;
+    margin-right: 400px;
+    margin-top: 50px;
+}
+#show {
+    height: 500px;
+    width: 800px;
+    margin-left: 370px;
+    margin-right: 400px;
+    margin-top: 50px;
+}
+.ft{
+    align-items: center;
+    height: 500px;
+    width: 800px;
+    margin-left: 370px;
+    margin-right: 400px;
+    margin-top: 50px;
+}
